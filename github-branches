@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert 5d1a24f [origin/bug-fix-revert] Revert "fixing year"
+  bug-fix-typo   2076011 [origin/bug-fix-typo] fixing year
+  main           2076011 [origin/main: ahead 1] fixing year
